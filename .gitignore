@@ -90,3 +90,4 @@ ENV/
 
 # Misc
 *.DS_Store
+hw1/expert_data/*
